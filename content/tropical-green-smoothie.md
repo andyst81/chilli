@@ -5,7 +5,8 @@ description: "This is a delicious and refreshing tropical green smoothie"
 type: "featured"
 image: "images/green-smoothie/green-smoothie01.jpg"
 tags:
-  - "Recipe"
+  - "Vegetarian"
+  - "Sweet"
 ---
 
 
@@ -25,37 +26,29 @@ One quick tip here – if you have trouble consuming the vegan green smoothie ca
 
 ![](../images/green-smoothie/green-smoothie04.jpg)
 
-Tropical Vegan Green Smoothie  
-Prep Time:
+>#### Tropical Vegan Green Smoothie Recipe
 
-5 minutes
+- **Prep Time**: 5 minutes
+- **Cook Time**: 10 minutes
+- **Total Time**: 10 minutes
+- **Portions**: 1 portion (600 ml)
 
-Cook Time:
 
-10 minutes
 
-Total Time:
-
-10 minutes
-
-Portions:
-
-600 ml.
-
-You’ll need:
-2 frozen bananas (or fresh make sure they’re very ripe)
-1 cup of frozen mango (or fresh)
-2-3 cups of spinach
-2 tsp. Spirulina powder
-1 cup of walnut milk (or any plant milk )
-½ cup of filtered water
-½  lime or lemon
-1 tsp. Maca powder (optional)
-1-2 tbsp. Chia seeds (optional)
-Let’s start!
-In a high speed blender, Add in all the spinach and blend finely to help ease out the process.
-Then add the rest of the ingredients. Blend to combined. Serve right away and enjoy!
-Tips:
-Make sure to use fully ripe banana and if you have too many overripe banana left. You can simply peel, cut and freeze them for later.
+###### You’ll need:
+- 2 frozen bananas (or fresh make sure they’re very ripe)
+- 1 cup of frozen mango (or fresh)
+- 2-3 cups of spinach
+- 2 tsp. Spirulina powder
+- 1 cup of walnut milk (or any plant milk )
+- ½ cup of filtered water
+- ½  lime or lemon
+- 1 tsp. Maca powder (optional)
+- 1-2 tbsp. Chia seeds (optional)
+###### Let’s start!
+- In a high speed blender, Add in all the spinach and blend finely to help ease out the process.
+- Then add the rest of the ingredients. Blend to combined. Serve right away and enjoy!
+###### Tips:
+- Make sure to use fully ripe banana and if you have too many overripe banana left. You can simply peel, cut and freeze them for later.
 
 ![](../images/green-smoothie/green-smoothie05.jpg)

@@ -28,37 +28,28 @@ Want more Chia seed recipe? Check out our [Chia Pudding and Strawberry Smoothie]
 
 ![](../images/chia-jam/chia-jam05.jpg)
 
-Strawberry Chia Jam
-Prep Time:
+>#### Strawberry Chia Jam Recipe
 
-5 minutes
+- **Prep Time**: 5 minutes
+- **Cook Time**: 10 - 15 minutes
+- **Total Time**: 15 - 20 minutes
+- **Portions**: Makes 250 ml, which is about 10 portions
 
-Cook Time:
-
-10 – 15 minutes
-
-Total Time:
-
-15 – 20 minutes
-
-Portions:
-
-250 ml.
-
-Strawberry Chia Jam
-Let’s start!
-In a medium saucepan combine strawberries and water on a medium low heat.
-Use the spoon to gently smash the strawberries til they start to break down, then add maple syrup and chia seeds.
-Keep stirring for around 5 minutes til the seeds swell up.
-Squeeze in the lime/lemon juice (if your strawberries are already sour you can skip this step)
-Turn off the heat.
-The jam can be stored in an airtight container in the fridge for up to 3-4 weeks
-You’ll need:
-2 tbsp chia seeds
-1 cup frozen or fresh strawberries
-1-2 tbsp. Maple syrup or Agave nectar
-½  tbsp. Lime/lemon juice
-1-2 tbsp. Filtered water
+###### You’ll need:
+- 2 tbsp chia seeds
+- 1 cup frozen or fresh strawberries
+- 1-2 tbsp. Maple syrup or Agave nectar
+- ½  tbsp. Lime/lemon juice
+- 1-2 tbsp. Filtered water
+###### Let’s start!
+- In a medium saucepan combine strawberries and water on a medium low heat.
+- Use the spoon to gently smash the strawberries til they start to break down, then add maple syrup and chia seeds.
+- Keep stirring for around 5 minutes til the seeds swell up.
+- Squeeze in the lime/lemon juice (if your strawberries are already sour you can skip this step)
+- Turn off the heat.
+- The jam can be stored in an airtight container in the fridge for up to 3-4 weeks
+###### Tips
+- Serve in puddings or on top of bread or crispbread - delicious
 
 ![](../images/chia-jam/chia-jam06.jpg)
 

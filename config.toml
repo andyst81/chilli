@@ -48,9 +48,19 @@ URL = "about"
 weight = 2
 
 [[menu.main]]
+name = "Recipes"
+URL = "recipes"
+weight = 3
+
+[[menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 4
+
+[[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 3
+weight = 5
 
 # deult parameter
 [params]
@@ -63,7 +73,7 @@ description = "Asian food with an awesome twist."
 # about author
 author = "Mina"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "I'm a photographer, watercolor artist and calligrapher from Thailand. Welcome to my corner of the internet."
 # Contact info
 email = "mina@chilliandlime.net"
 # Contact Form Action
