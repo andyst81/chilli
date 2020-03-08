@@ -1,8 +1,7 @@
 # default config
-baseURL = "https://examplesite.org"
+baseURL = "/"
 languageCode = "en-us"
 title = "Parsa | Personal Blog Template"
-theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
 
@@ -55,20 +54,18 @@ weight = 3
 
 # deult parameter
 [params]
-logo = "images/logo.png"
+logo = "images/logo-small.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "This is meta description"
+description = "Asian food with a twist - "
 # about author
-author = "Themefisher"
+author = "Mina"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
+email = "mina@chilliandlime.net"
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
@@ -87,8 +84,8 @@ enable = true
 # Instagram feed
 [params.instafeed]
 enable = true
-user_id = "4044026246"
-access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+user_id = "863669960759354"
+access_token = "ad6e06451d49a38137d6df13ae245c6c"
 
 # social site
 [[params.social]]
@@ -104,5 +101,5 @@ icon = "ti-linkedin"
 URL = "#"
 
 [[params.social]]
-icon = "ti-github"
+icon = "ti-pinterest"
 URL = "#"
