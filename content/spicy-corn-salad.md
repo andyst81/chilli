@@ -1,11 +1,9 @@
 ---
-title: "Charming Evening Field"
-date: 2016-05-14T14:46:10+06:00
-description: "This is meta description"
+title: "Vegan Spicy Thai Corn Salad"
+date: 2017-06-27T14:46:10+06:00
+description: "This is an amazing healthy spicy corn salad that's vegan too!"
 type: "post"
-image: "images/masonary-post/post-1.jpg"
-categories:
-  - "Food"
+image: "images/corn-salad/corn-salad04.jpg"
 tags:
   - "Photos"
   - "Food"
