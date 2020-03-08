@@ -90,16 +90,16 @@ access_token = "ad6e06451d49a38137d6df13ae245c6c"
 # social site
 [[params.social]]
 icon = "ti-facebook"
-URL = "#"
+URL = "https://www.facebook.com/chilliandlimeblog"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "#"
+URL = "https://twitter.com/chilliandlimeth"
 
 [[params.social]]
 icon = "ti-linkedin"
-URL = "#"
+URL = "https://instagram.com/chilliandlimeblog"
 
 [[params.social]]
 icon = "ti-pinterest"
-URL = "#"
+URL = "https://www.pinterest.com/chilliandlimeblog/"

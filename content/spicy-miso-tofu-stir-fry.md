@@ -3,9 +3,7 @@ title: "Spicy Tofu Stir Fry"
 date: 2017-06-09T14:46:10+06:00
 description: "Spicy Miso Tofu Stir Fry Recipe"
 type: "featured"
-image: "images/tofu-stir-fry/tofu01.jpg"
-categories:
-  - "Recipe"
+image: "images/tofu-stir-fry/tofu06.jpg"
 tags:
   - "Photos"
   - "Food"
@@ -83,4 +81,4 @@ Make sure you have all the ingredients to hand when cooking as the stir fry cook
 
 ![](../images/tofu-stir-fry/tofu05.jpg)
 
-![](../images/tofu-stir-fry/tofu06.jpg)
+![](../images/tofu-stir-fry/tofu01.jpg)

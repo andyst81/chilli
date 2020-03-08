@@ -108,7 +108,7 @@ h6, .h6 {
 }
 
 .btn-primary:hover {
-  background: #ff8c33;
+  background: #9EB25D;
 }
 
 .btn-outline-light {
@@ -139,12 +139,12 @@ body {
 }
 
 ::-moz-selection {
-  background: #ff8c33;
+  background: #9EB25D;
   color: #fff;
 }
 
 ::selection {
-  background: #ff8c33;
+  background: #9EB25D;
   color: #fff;
 }
 
@@ -334,7 +334,7 @@ a.text-dark:hover {
 }
 
 .bg-secondary {
-  background: #fdefe6 !important;
+  background: #eefcce !important;
 }
 
 .text-primary {
@@ -662,7 +662,7 @@ textarea.form-control {
 /* homepage 2 */
 .hero-section {
   padding: 70px 0 0;
-  background-image: linear-gradient(#fff 45%, #fdefe6 0);
+  background-image: linear-gradient(#fff 45%, #eefcce 0);
 }
 
 .dividers {
@@ -802,7 +802,7 @@ textarea.form-control {
 blockquote {
   font-style: italic;
   color: #000000;
-  background: #fdefe6;
+  background: #eefcce;
   padding: 20px;
   font-weight: 600;
 }
