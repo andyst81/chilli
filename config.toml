@@ -1,7 +1,7 @@
 # default config
 baseURL = "/"
 languageCode = "en-us"
-title = "Parsa | Personal Blog Template"
+title = "Chilli and Lime - Asian flavours with an awesome twist"
 summaryLength = "10"
 paginate = 6
 
@@ -59,7 +59,7 @@ home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "Asian food with a twist - "
+description = "Asian food with an awesome twist."
 # about author
 author = "Mina"
 author_image = "images/banner-img.png"
@@ -71,7 +71,7 @@ contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; 2020 [Chilli and Lime](/)"
 
 # Preloader
 [params.preloader]
