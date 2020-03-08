@@ -113,3 +113,6 @@ URL = "https://instagram.com/chilliandlimeblog"
 [[params.social]]
 icon = "ti-pinterest"
 URL = "https://www.pinterest.com/chilliandlimeblog/"
+
+[markup.goldmark.renderer]
+unsafe= true
