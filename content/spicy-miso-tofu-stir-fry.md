@@ -3,7 +3,7 @@ title: "Spicy Tofu Stir Fry"
 date: 2017-06-09T14:46:10+06:00
 description: "Spicy Miso Tofu Stir Fry Recipe"
 type: "featured"
-image: "images/tofu-stir-fry/tofu06.jpg"
+image: "https://media.publit.io/file/w_730,h_1080/tofu06.webp"
 tags:
   - "Photos"
   - "Vegetarian"
@@ -12,16 +12,16 @@ tags:
 
 Tofu or bean curd is traditionally made from soybeans. Many people don’t like the taste or texture of tofu much, probably because, on it’s own, it doesn’t have much taste. It also has a springy, chewy texture, but is it really that bad? Not at all. In fact, if we consider tofu to be a blank canvas, we can jazz it up with seasonings and a delicious, delicious umami vibe. For this spicy tofu dish, I chose miso to add a nice saltiness and sriracha sauce to add some heat and tanginess.
 
-![](../images/tofu-stir-fry/tofu02.jpg)
+![](https://media.publit.io/file/w_730/tofu02.webp)
 
 > If you’re a tofu disbeliever, then let my spicy tofu stir fry change your mind (quick warning: you might want to cook this every night as it’s super delicious).
 
 
-![](../images/tofu-stir-fry/tofu03.jpg)
+![](https://media.publit.io/file/w_730/tofu03.webp)
 
 The key to master cooking tofu is to season and cook it right. Any tofu tastes way better after marinating and frying to crispen it up and coat it with yummy spicy sauce. Tofu is a well known alternative for protein for everybody – especially vegetarians and vegan. You can add some chewy or crispy texture to your meal without adding extra calories. It’s also totally affordable!
 
-![](../images/tofu-stir-fry/tofu03.jpg)
+![](https://media.publit.io/file/w_730/tofu03.webp)
 
 >#### Spicy Tofu Stir Fry Recipe
 
@@ -68,8 +68,8 @@ For the sauce
 - Please be careful if you use chilli in any stir fry, it’ll make you cough, so make sure you have a ventilator on or have a window open.
 - Make sure you have all the ingredients to hand when cooking as the stir fry cooks VERY fast.
 
-![](../images/tofu-stir-fry/tofu04.jpg)
+![](https://media.publit.io/file/w_730/tofu04.webp)
 
-![](../images/tofu-stir-fry/tofu05.jpg)
+![](https://media.publit.io/file/w_730/tofu05.webp)
 
-![](../images/tofu-stir-fry/tofu01.jpg)
+![](https://media.publit.io/file/w_730/tofu01.webp)

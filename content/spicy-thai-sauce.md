@@ -3,7 +3,7 @@ title: "Spicy Thai Dipping Sauce แจ่ว"
 date: 2017-08-17T14:46:10+06:00
 description: "An amazing dipping sauce to accompany your food"
 type: post
-image: "https://media.publit.io/file/jaew01.jpg"
+image: "https://media.publit.io/file/jaew01.webp"
 tags:
   - "Photos"
   - "Food"
@@ -13,7 +13,7 @@ This spicy sauce is one of the very common sauces that you find in Thailand. We 
 
 The other important ingredient is “Toasted rice powder” (you can find how to make it simply by pressing here). Toasted rice powder helps thicken the sauce and also give the thai spicy sauce a distinct texture and a signature nutty aroma, so please make sure you prepare the toasted rice powder in advance.
 
-![](https://media.publit.io/file/jaew02.jpg)
+![](https://media.publit.io/file/jaew02.webp)
 
 For flavor in this Thai spicy sauce, we already have a salty flavour from soy sauce. We add sweetness from the sugar, for the acidic flavor, we’ll be using lime, but it’s also common to use tamarind. If you can’t find any tamarind or lime, you can also use lemon. To spice it up, we use dried chilli flakes, but if you only have fresh chillies at hand, they can also be used.
 
@@ -49,4 +49,4 @@ If you are looking for a great vegan barbecue option, check out our Grilled mush
 ###### Tips:
 - If you need to prepare the sauce in advance, better leave the herbs and toasted rice out then add it in just before you serve the sauce. This helps keep the flavor fresh, cause the rice will swell as it absorbs the liquid and the greens will wilt from the acidic lime and won’t look as appetizing.
 
-![](https://media.publit.io/file/jaew03.jpg)
+![](https://media.publit.io/file/jaew03.webp)

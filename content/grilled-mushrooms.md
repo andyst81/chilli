@@ -3,20 +3,20 @@ title: "Grilled Mushrooms With Black Pepper Sauce"
 date: 2017-08-10T14:46:10+06:00
 description: "Test"
 type: post
-image: "https://media.publit.io/file/grilled-mushrooms01.jpg"
+image: "https://media.publit.io/file/grilled-mushrooms01.webp"
 tags:
   - "Photos"
   - "Food"
 ---
-![](https://media.publit.io/file/grilled-mushrooms02.jpg)
+![](https://media.publit.io/file/grilled-mushrooms02.webp)
 
 Mushrooms are very dense in nutrients. They can be a great source of potassium, protein and selenium. They’re also a good source of phosphorus, zinc, niacin, pantothenic acid, vitamin C, folic acid, niacin, vitamins B-1 and B-2 and the list go on. There are literally hundreds, if not thousands, of different types of edible mushroom and they all have slightly different nutritional benefits. I chose to use King oyster mushroom for this grilled mushrooms recipe, cause its bouncy, chewy texture goes perfectly with the black pepper sauce. You can also try this recipe with many other mushroom.
 
-![](https://media.publit.io/file/grilled-mushrooms03.jpg)
+![](https://media.publit.io/file/grilled-mushrooms03.webp)
 
 Just because you are no longer eating meat doesn’t mean you can’t have fun and enjoy a summer barbecue. This grilled mushrooms and black pepper sauce recipe is equally great for either mushroom lovers or pairing with other meals as a side dish. It is is very easy to make and can be prepared in advance
 
-![](https://media.publit.io/file/grilled-mushrooms04.jpg)
+![](https://media.publit.io/file/grilled-mushrooms04.webp)
 
 Personally mushrooms are one of my favourite foods. They are delicious, a great source of protein as well as affordable, easy to find and it’s good with everything or even by itself. Hope you’ll enjoy our grilled mushrooms recipe as much as I do. I also have a special spicy sauce recipe to serve with or enjoy it with a [Thai spicy corn salad](../spicy-corn-salad). Stay tuned for more mushroom recipes are coming your way!
 

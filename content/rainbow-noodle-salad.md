@@ -3,7 +3,7 @@ title: "Rainbow Veggie Soba Noodle Salad with Spicy Peanut Dressing"
 date: 2017-06-18T14:46:10+06:00
 description: "Rainbow Veggie Soba Noodle Salad with Spicy Peanut Dressing"
 type: "featured"
-image: "images/noodle-salad/noodle-salad01.jpg"
+image: "https://media.publit.io/file/w_730,h_1080/noodle-salad01.webp"
 tags:
   - "Recipe"
   - "Nature"
@@ -11,7 +11,7 @@ tags:
 
 Eat the rainbow! I think you have probably heard this phrase once or more times. Oh..well I know my noodle salad with spicy peanut dressing does not exactly come in 7 colours, but the idea is that combining more than one shade of fruits and vegetables in every meal can really benefit your health. The vibrant hue of all vegetables that we see is not just bright and pretty; it also indicate its own benefits.
 
-![](../images/noodle-salad/noodle-salad02.jpg)
+![](https://media.publit.io/file/w_730/noodle-salad02.webp)
 
 **Red,Orange and Yellow**: a red pigment is full of Lycopene which helps reduce the chance of breast and prostate cancer as well as being great for your heart and skin. Orange and yellow pigments are full of Beta carotene, packed with Vitamin C’s immune-boosting powers. You can these benefits in tomato, watermelon, beets, carrot, lemon, pumpkin, etc.
 
@@ -19,13 +19,13 @@ Eat the rainbow! I think you have probably heard this phrase once or more times.
 
 **Blue, Indigo, Purple**: Loads and loads of antioxidants, very high in vitamins C, helps to prevent heart disease and great for memory function. You can easily find these benefits from grapes, blueberries, eggplants and purple cabbage among other  things. Do you know there are such things as purple asparagus and purple carrot? So pretty and so, so delicious.
 
-![](../images/noodle-salad/noodle-salad03.jpg)
+![](https://media.publit.io/file/w_730/noodle-salad03.webp)
 
 Even though these foods offer so many benefits and are so beautiful, there are still many people who will pull their face when it comes to eating plate full of veggies. I actually know some vegetarians who don’t really eat vegetables – how bizarre?! Ok, ok there may be scientific and psychological reasons behind it. There are some genes that make some people taste bitter or soapy flavors when they eat certain veg. As vegetables themselves don’t have much flavor or the umami factor that can kick start our taste buds, if you want to start eating more vegetables, maybe start by adding some sauces or dressing.
 
 If you want a good place to start, try making this noodle salad with spicy peanut dressing. It’s salty, sour, spicy  with hint of sweetness and the [delicious homemade peanut butter](linkneededhere) really helps to round up the flavor between crunchy veggies and chewy soba noodles. Enjoy! Oh….plus soba themselves are made from buckwheat, so they are gluten free, low fat and high in protein!… You’re welcome.
 
-![](../images/noodle-salad/noodle-salad04.jpg)
+![](https://media.publit.io/file/w_730/noodle-salad04.webp)
 
 >#### Rainbow Veggie Soba Noodle Salad Recipe
 
@@ -55,7 +55,7 @@ For the noodle salad
 - Sesame seeds (for garnish)
 - Spring onion(for garnish)
 
-![](../images/noodle-salad/noodle-salad05.jpg)
+![](https://media.publit.io/file/w_730/noodle-salad05.webp)
 
 ###### Let’s start!
 - Make the sauce: In a medium bowl, add peanut butter and water to thin out the mixture (if your peanut butter is too hard feel free to microwave it for 30 seconds) then add the rest of the wet ingredients – soy sauce, lime juice, agave nectar stir to combine then give it a taste. Add chopped garlic, sliced chillies and sesame oil. Mix together then top with sesame seeds. Feel free to adjust the quantities of the ingredients according to your own taste.
@@ -68,6 +68,6 @@ For the noodle salad
 - Add soba into the ice water to stop the cooking process then rinse them well.
 - Then simply add all vegetables and soba noodle in a bowl then top with the dressing, mix well and garnish with sesame and spring onion. Serve your delicious noodle salad straight away.
 
-![](../images/noodle-salad/noodle-salad06.jpg)
+![](https://media.publit.io/file/w_730/noodle-salad06.webp)
 
-![](../images/noodle-salad/noodle-salad07.jpg)
+![](https://media.publit.io/file/w_730/noodle-salad07.webp)

@@ -3,7 +3,7 @@ title: "Vegan Spicy Thai Corn Salad"
 date: 2017-06-27T14:46:10+06:00
 description: "This is an amazing healthy spicy corn salad that's vegan too!"
 type: "post"
-image: "images/corn-salad/corn-salad04.jpg"
+image: "https://media.publit.io/file/w_730/corn-salad04.webp"
 tags:
   - "Photos"
   - "Food"
@@ -13,11 +13,11 @@ In Thailand we separate our food into 4 regions (northern food, southern food, c
 
 There are many kinds of spicy salad in Thailand. The most common one is papaya salad (som tum or ส้มตำ – the recipe is coming soon!). I love that it is so fresh, light, spicy and as added bonus, low calorie and super quick to make.
 
-![](../images/corn-salad/cornsalad01.jpg)
+![](../https://media.publit.io/file/w_730/cornsalad01.webp)
 
 If you order it in Thailand generally they will add dried shrimp and salted egg to it. Also, they’ll use fish sauce. In this recipe, we’ll be using thin soy sauce instead to make it completely vegan.  We use thin soy sauce because it won’t overpower our Thai spicy corn salad as much as regular soy sauce, but it will still give us that umami factor. I usually have the Thai spicy corn salad as a snack, side dish or even main meal. It is delicious served with grilled mushrooms and sticky rice or even regular white rice. Just remember to serve and eat right away after you cook it for the best flavor.
 
-![](../images/corn-salad/cornsalad02.jpg)
+![](../https://media.publit.io/file/w_730/cornsalad02.webp)
 
 >#### Thai Spicy Corn Salad Recipe
 
@@ -54,6 +54,6 @@ If you order it in Thailand generally they will add dried shrimp and salted egg 
 ###### Tips:
 - If you don’t have a mortar and pestle. Don’t worry. You can smash the garlic and chilli with the flat side of a cooking knife. Then mix lime juice, thin soy sauce and sugar in a small bowl until sugar is dissolved. Pour over the corn, sliced tomatoes and long beans; toss well.
 
-![](../images/corn-salad/cornsalad03.jpg)
+![](../https://media.publit.io/file/w_730/cornsalad03.webp)
 
-![](../images/corn-salad/cornsalad05.jpg)
+![](../https://media.publit.io/file/w_730/cornsalad05.webp)

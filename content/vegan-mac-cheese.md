@@ -3,7 +3,7 @@ title: "Vegan Mac and Cheese"
 date: 2018-02-22T14:46:10+06:00
 description: "An amazing vegan mac and cheese recipe"
 type: "featured"
-image: "images/mac-cheese/mac-cheese01.jpg"
+image: "https://media.publit.io/file/w_730,h_1080/mac-cheese01.webp"
 tags:
   - "Recipe"
   - "Photos"
@@ -11,7 +11,7 @@ tags:
 
 Ooey gooey mac and cheese is one of the ultimate comforting food that everybody loves. Don’t get me wrong I do love the dairy version of mac and cheese, but after making it a couple times at home. With the high amount of fat and grease, I can’t help but feeling sick and heavy afterward.
 
-![](../images/mac-cheese/mac-cheese02.jpg)
+![](https://media.publit.io/file/w_730/mac-cheese02.webp)
 
 So, after discovering vegan version of mac and cheese. To confess I was quite skeptical about the recipe at first, but then since I’m trying to decrease dairy consumption as much as I can, so why not? I’m not a vegan, but I’ve gone through many phrases of vegetarian, raw vegan, pescatarian and now come around to eat meat again which I really do regret it really is make me sick, so now I’m making my way back and focusing on plant based nutrient dense food. Well..life is a journey!
 
@@ -19,7 +19,7 @@ I love cooking and since I start my healthy food route. I have learnt to veggini
 
 You’ll surprised how creamy and delicious this mac and cheese recipe is. Perfect amount of salty and tanginess that make this dish special. After making it first time, I’ve ended up making it again 3-4 times already in less than a month. Yes, it’s that good! I couldn’t stop licking my finger getting the sauce out of the blender hehe..Enjoy!
 
-![](../images/mac-cheese/mac-cheese03.jpg)
+![](https://media.publit.io/file/w_730/mac-cheese03.webp)
 
 >#### Vegan Mac and Cheese Recipe
 
@@ -43,7 +43,7 @@ You’ll surprised how creamy and delicious this mac and cheese recipe is. Perfe
 - 1 tbsp. lime or lemon juice
 - ½ cup of almond milk or the veggie stock
 
-![](../images/mac-cheese/mac-cheese04.jpg)
+![](https://media.publit.io/file/w_730mac-cheese04.webp)
 
 ###### Let’s start!
 - In the deep bottom pot add potatoes, carrots, onion with a pinch of sea salt and water (just enough to cover all ingredients) boil until soft around 20 minutes.
@@ -58,10 +58,10 @@ You’ll surprised how creamy and delicious this mac and cheese recipe is. Perfe
 
 <iframe title="Vegan Mac&amp;Cheese" src="https://www.youtube.com/embed/c4XQMkE8BIg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" id="fitvid0" width="100%" height="400px"></iframe>
 
-![](../images/mac-cheese/mac-cheese05.jpg)
+![](https://media.publit.io/file/w_730/mac-cheese05.webp)
 
-![](../images/mac-cheese/mac-cheese06.jpg)
+![](https://media.publit.io/file/w_730/mac-cheese06.webp)
 
-![](../images/mac-cheese/mac-cheese07.jpg)
+![](https://media.publit.io/file/w_730/mac-cheese07.webp)
 
-![](../images/mac-cheese/mac-cheese08.jpg)
+![](https://media.publit.io/file/w_730/mac-cheese08.webp)

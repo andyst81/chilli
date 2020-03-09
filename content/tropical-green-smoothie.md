@@ -3,7 +3,7 @@ title: "Tropical Green Smoothie"
 date: 2017-08-17T14:46:10+06:00
 description: "This is a delicious and refreshing tropical green smoothie"
 type: "featured"
-image: "images/green-smoothie/green-smoothie01.jpg"
+image: "https://media.publit.io/file/w_730,h_1080/green-smoothie01.webp"
 tags:
   - "Vegetarian"
   - "Sweet"
@@ -12,11 +12,11 @@ tags:
 
 Don’t let the mighty green coloured drink intimidate you. Green smoothies are one of the best ways to boost your energy in the morning – especially a vegan green smoothie. They are also a great pick you up snack in the middle of the day. Many people have a funny feeling about mixing greens and fruits, but I’ve got just the tip for you here.
 
-![](../images/green-smoothie/green-smoothie02.jpg)
+![](https://media.publit.io/file/w_730/green-smoothie02.webp)
 
 Before you give up the idea, here are some benefits: This vegan green smoothie is the perfect way to increase your veg and fruit intake. You can let your digestive system rest while your body fully absorbs all the nutrients which help boost your energy, full of antioxidants, promoting weight loss, leaving you with a healthy body, glowing skin and make you crave more every morning.
 
-![](../images/green-smoothie/green-smoothie03.jpg)
+![](https://media.publit.io/file/w_730/green-smoothie03.webp)
 
 The best green smoothie should combine 70%-80% vegetables and 20%-30% fruits and others. This way your smoothie will be full of nutrients instead of sugar. If you’re a beginner. I’d recommended start little by little. I first start with handful of spinach with loads of frozen fruits, plant milk and even add a splash of sweetener. You can decrease the amount of sweetener as you get more used to the flavour. You will be surprised how your taste buds adjust over time. In terms of liquid, you can add anything from juice, plant milk or even just water. Then if you have any extra superfoods to add in  (Maca, Chia seeds, Spirulina powder, Chlorella powder, hemp seed, flax seeds, etc.).
 
@@ -24,7 +24,7 @@ One quick tip here – if you have trouble consuming the vegan green smoothie ca
 
 > If you want a little more healthy smoothie inspiration, check out our [vegan chocolate peanut butter smoothie](linkneeded.com).
 
-![](../images/green-smoothie/green-smoothie04.jpg)
+![](https://media.publit.io/file/w_730/green-smoothie04.webp)
 
 >#### Tropical Vegan Green Smoothie Recipe
 
@@ -51,4 +51,4 @@ One quick tip here – if you have trouble consuming the vegan green smoothie ca
 ###### Tips:
 - Make sure to use fully ripe banana and if you have too many overripe banana left. You can simply peel, cut and freeze them for later.
 
-![](../images/green-smoothie/green-smoothie05.jpg)
+![](https://media.publit.io/file/w_730/green-smoothie05.webp)

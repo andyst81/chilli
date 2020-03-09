@@ -3,7 +3,7 @@ title: "Test Recipe"
 date: 2020-03-08T14:46:10+06:00
 description: "Test"
 type: draft
-image: "https://media.publit.io/file/jaew01.jpg"
+image: "https://media.publit.io/file/jaew01.webp"
 tags:
   - "Photos"
   - "Food"
@@ -11,7 +11,7 @@ tags:
 
 Blog content and images go here.
 
-![](https://media.publit.io/file/jaew02.jpg)
+![](https://media.publit.io/file/jaew02.webp)
 
 >####  Recipe
 
