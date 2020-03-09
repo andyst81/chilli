@@ -3,11 +3,15 @@ title: "Test Recipe"
 date: 2020-03-08T14:46:10+06:00
 description: "Test"
 type: draft
-image: "images/green-smoothie/green-smoothie01.jpg"
+image: "https://media.publit.io/file/jaew01.jpg"
 tags:
   - "Photos"
   - "Food"
 ---
+
+Blog content and images go here.
+
+![](https://media.publit.io/file/jaew02.jpg)
 
 >####  Recipe
 
@@ -21,4 +25,4 @@ tags:
 ###### Let’s start!
 -
 ###### Tips:
-- 
+-
