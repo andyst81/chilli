@@ -1,6 +1,6 @@
 ---
 title: "Spicy Thai Dipping Sauce แจ่ว"
-date: 2017-08-17T14:46:10+06:00
+date: 2017-07-17T14:46:10+06:00
 description: "An amazing dipping sauce to accompany your food"
 type: post
 image: "https://media.publit.io/file/jaew01.webp"

@@ -6,10 +6,20 @@
     <description>Recent content in Photos on Chilli and Lime - Asian flavours with an awesome twist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2018 14:46:10 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2020 14:46:10 +0600</lastBuildDate>
     
 	<atom:link href="/tags/photos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test Recipe</title>
+      <link>/test-recipe/</link>
+      <pubDate>Sun, 08 Mar 2020 14:46:10 +0600</pubDate>
+      
+      <guid>/test-recipe/</guid>
+      <description>Blog content and images go here.
+ Recipe   Prep Time: Cook Time: Total Time: Portions:  You’ll need:    Let’s start!</description>
+    </item>
     
     <item>
       <title>Vegan Mac and Cheese</title>
@@ -17,7 +27,43 @@
       <pubDate>Thu, 22 Feb 2018 14:46:10 +0600</pubDate>
       
       <guid>/vegan-mac-cheese/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Ooey gooey mac and cheese is one of the ultimate comforting food that everybody loves.</description>
+    </item>
+    
+    <item>
+      <title>Chia Pudding and Strawberry Smoothie</title>
+      <link>/chia-pudding/</link>
+      <pubDate>Sun, 13 Aug 2017 14:46:10 +0600</pubDate>
+      
+      <guid>/chia-pudding/</guid>
+      <description>These little tiny seeds are one of the best superfoods. Completely full of antioxidants, they contain more calcium than milk, more omega-3 fatty acid than salmon, which helps to increase HDL, the good cholesterol that protects us from heart attacks.</description>
+    </item>
+    
+    <item>
+      <title>Grilled Mushrooms With Black Pepper Sauce</title>
+      <link>/grilled-mushrooms/</link>
+      <pubDate>Thu, 10 Aug 2017 14:46:10 +0600</pubDate>
+      
+      <guid>/grilled-mushrooms/</guid>
+      <description>Mushrooms are very dense in nutrients. They can be a great source of potassium, protein and selenium.</description>
+    </item>
+    
+    <item>
+      <title>Roast Tomato Soup</title>
+      <link>/tomato-soup/</link>
+      <pubDate>Thu, 27 Jul 2017 14:46:10 +0600</pubDate>
+      
+      <guid>/tomato-soup/</guid>
+      <description>There are times, after a long, long day at work that coming home and tucking into a warm cozy soup, will be one of the best feelings.</description>
+    </item>
+    
+    <item>
+      <title>Spicy Thai Dipping Sauce แจ่ว</title>
+      <link>/spicy-thai-sauce/</link>
+      <pubDate>Mon, 17 Jul 2017 14:46:10 +0600</pubDate>
+      
+      <guid>/spicy-thai-sauce/</guid>
+      <description>This spicy sauce is one of the very common sauces that you find in Thailand.</description>
     </item>
     
     <item>
@@ -26,7 +72,7 @@
       <pubDate>Tue, 27 Jun 2017 14:46:10 +0600</pubDate>
       
       <guid>/spicy-corn-salad/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>In Thailand we separate our food into 4 regions (northern food, southern food, central food and Isaan or North Eastern food).</description>
     </item>
     
     <item>
@@ -45,96 +91,6 @@
       
       <guid>/vegetarian-pad-thai/</guid>
       <description>Pad Thai is one of the most well known dishes in Thailand.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/charming-evening-field.10/</link>
-      <pubDate>Sat, 14 May 2016 14:46:10 +0600</pubDate>
-      
-      <guid>/charming-evening-field.10/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/charming-evening-field.11/</link>
-      <pubDate>Sat, 14 May 2016 14:46:10 +0600</pubDate>
-      
-      <guid>/charming-evening-field.11/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/charming-evening-field.2/</link>
-      <pubDate>Sat, 14 May 2016 14:46:10 +0600</pubDate>
-      
-      <guid>/charming-evening-field.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/charming-evening-field.3/</link>
-      <pubDate>Sat, 14 May 2016 14:46:10 +0600</pubDate>
-      
-      <guid>/charming-evening-field.3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/charming-evening-field.4/</link>
-      <pubDate>Sat, 14 May 2016 14:46:10 +0600</pubDate>
-      
-      <guid>/charming-evening-field.4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/charming-evening-field.5/</link>
-      <pubDate>Sat, 14 May 2016 14:46:10 +0600</pubDate>
-      
-      <guid>/charming-evening-field.5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/charming-evening-field.6/</link>
-      <pubDate>Sat, 14 May 2016 14:46:10 +0600</pubDate>
-      
-      <guid>/charming-evening-field.6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/charming-evening-field.7/</link>
-      <pubDate>Sat, 14 May 2016 14:46:10 +0600</pubDate>
-      
-      <guid>/charming-evening-field.7/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/charming-evening-field.9/</link>
-      <pubDate>Sat, 14 May 2016 14:46:10 +0600</pubDate>
-      
-      <guid>/charming-evening-field.9/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>/charming-evening-field.8/</link>
-      <pubDate>Thu, 14 May 2009 14:46:10 +0600</pubDate>
-      
-      <guid>/charming-evening-field.8/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>
