@@ -1,7 +1,7 @@
 (function ($) {
   'use strict';
 
-  // Preloader js    
+  // Preloader js
   $(window).on('load', function () {
     $('.preloader').fadeOut(300);
   });
@@ -43,15 +43,6 @@
       }
     ]
   });
-
-  // Masonry
-  setTimeout(function(){
-    $('.masonry-container').masonry({
-      itemSelector: '.masonry-container > div',
-      columnWidth: 1
-    });
-  }, 500);
-
 
   // instafeed
   if (($('#instafeed').length) !== 0) {
