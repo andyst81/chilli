@@ -81,7 +81,7 @@ contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright &copy; 2020 [Chilli and Lime](/)"
+copyright = "Copyright &copy; 2020 [Chilli and Lime](/). Chilli and Lime is personal blog containing only original content."
 
 # Preloader
 [params.preloader]
