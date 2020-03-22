@@ -107,10 +107,6 @@ icon = "ti-twitter-alt"
 URL = "https://twitter.com/chilliandlimeth"
 
 [[params.social]]
-icon = "ti-linkedin"
-URL = "https://instagram.com/chilliandlimeblog"
-
-[[params.social]]
 icon = "ti-pinterest"
 URL = "https://www.pinterest.com/chilliandlimeblog/"
 
