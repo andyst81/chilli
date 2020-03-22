@@ -13,10 +13,10 @@
     
     <item>
       <title>Test Recipe</title>
-      <link>/test-recipe/</link>
+      <link>/_default-recipe/</link>
       <pubDate>Sun, 08 Mar 2020 14:46:10 +0600</pubDate>
       
-      <guid>/test-recipe/</guid>
+      <guid>/_default-recipe/</guid>
       <description>Blog content and images go here.
  Recipe   Prep Time: Cook Time: Total Time: Portions:  You’ll need:    Let’s start!</description>
     </item>
@@ -64,6 +64,60 @@
       
       <guid>/spicy-corn-salad/</guid>
       <description>In Thailand we separate our food into 4 regions (northern food, southern food, central food and Isaan or North Eastern food).</description>
+    </item>
+    
+    <item>
+      <title>Easy Homemade Classic Peanut Butter</title>
+      <link>/peanut-butter/</link>
+      <pubDate>Wed, 07 Jun 2017 14:46:10 +0600</pubDate>
+      
+      <guid>/peanut-butter/</guid>
+      <description>We all know peanuts have a lot of health benefits. A 2 tablespoon serving of peanut butter contains 7 grams of clean protein.</description>
+    </item>
+    
+    <item>
+      <title>Vegan Chocolate Peanut Butter Smoothie</title>
+      <link>/choc-smoothie/</link>
+      <pubDate>Wed, 07 Jun 2017 14:46:10 +0600</pubDate>
+      
+      <guid>/choc-smoothie/</guid>
+      <description>They’re luscious, smooth and refreshing. Everybody loves smoothies, but most creamy decadent ones contain “Milk” as the main popular ingredient.</description>
+    </item>
+    
+    <item>
+      <title>Pumpkin Miso Soup with Udon Noodles</title>
+      <link>/pumpkin-miso-udon/</link>
+      <pubDate>Sun, 28 May 2017 14:46:10 +0600</pubDate>
+      
+      <guid>/pumpkin-miso-udon/</guid>
+      <description>Sometimes we all need a little food therapy. Everyone has their favourite comforting meals, however most of us tend to gravitate towards high-calorie, deep fried foods as the saving dish of the day when we are in need.</description>
+    </item>
+    
+    <item>
+      <title>Thai Sriracha Chilli Sauce</title>
+      <link>/sriracha/</link>
+      <pubDate>Fri, 19 May 2017 14:46:10 +0600</pubDate>
+      
+      <guid>/sriracha/</guid>
+      <description>This is a hot (medium in Thailand!) Sriracha chilli sauce recipe that is inspired by the sauce made in Sriracha that carries the same name.</description>
+    </item>
+    
+    <item>
+      <title>Creamy Tom Yum Soup</title>
+      <link>/tom-yum-soup/</link>
+      <pubDate>Tue, 02 May 2017 14:46:10 +0600</pubDate>
+      
+      <guid>/tom-yum-soup/</guid>
+      <description>If you want to freshen up your day, this spicy, salty, sour and creamy broth will give you a boost.</description>
+    </item>
+    
+    <item>
+      <title>Pad Thai Sauce (น้ำผัดไทย)</title>
+      <link>/pad-thai-sauce/</link>
+      <pubDate>Mon, 01 May 2017 14:46:10 +0600</pubDate>
+      
+      <guid>/pad-thai-sauce/</guid>
+      <description>Pad thai is one of the most famous and popular Thai dishes.</description>
     </item>
     
   </channel>
