@@ -4,6 +4,7 @@ date: 2017-06-27T14:46:10+06:00
 description: "This is an amazing healthy spicy corn salad that's vegan too!"
 type: "post"
 image: "https://media.publit.io/file/w_730/corn-salad04.webp"
+jpg: "https://media.publit.io/file/w_730/corn-salad04.jpg"
 tags:
   - "Photos"
   - "Food"

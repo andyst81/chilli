@@ -4,6 +4,7 @@ date: 2017-09-04T14:46:10+06:00
 description: "Decadent and healthy strawberry chia jam recipe"
 type: "post"
 image: "https://media.publit.io/file/w_730/chia-jam01.webp"
+jpg: "https://media.publit.io/file/w_730/chia-jam01.jpg"
 tags:
   - "Recipe"
   - "Sweet"

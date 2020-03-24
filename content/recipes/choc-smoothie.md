@@ -4,6 +4,8 @@ date: 2017-06-07T14:46:10+06:00
 description: "A decadent chocolate and peanut butter smoothie that's all vegan"
 type: post
 image: "https://media.publit.io/file/choc-smoothie01.webp"
+jpg: "https://media.publit.io/file/choc-smoothie01.jpg"
+
 tags:
   - "Photos"
   - "Food"

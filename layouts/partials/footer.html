@@ -28,11 +28,7 @@
 </footer>
 
 
-{{ if .Site.Params.search.enable }}
-<script>
-  var indexURL = {{ "index.json" | absURL }}
-</script>
-{{ end }}
+
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}

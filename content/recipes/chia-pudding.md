@@ -4,6 +4,7 @@ date: 2017-08-10T14:46:10+06:00
 description: "A delicious breakfast - or meal for anytime of the day"
 type: post
 image: "https://media.publit.io/file/chia-pudding06.webp"
+jpg: "https://media.publit.io/file/chia-pudding06.jpg"
 tags:
   - "Photos"
   - "Food"

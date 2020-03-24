@@ -4,6 +4,7 @@ date: 2017-05-19T14:46:10+06:00
 description: "A fresh and delicious Thai chilli sauce - clean, healthy and delicious"
 type: post
 image: "https://media.publit.io/file/sriracha01.webp"
+jpg: "https://media.publit.io/file/sriracha01.jpg"
 tags:
   - "Photos"
   - "Food"

@@ -4,6 +4,7 @@ date: 2017-05-28T14:46:10+06:00
 description: "A delicious miso noodle soup recipe, made with pumpkin"
 type: post
 image: "https://media.publit.io/file/pumpkin-miso-udon-04.webp"
+jpg: "https://media.publit.io/file/pumpkin-miso-udon-04.jpg"
 tags:
   - "Photos"
   - "Food"

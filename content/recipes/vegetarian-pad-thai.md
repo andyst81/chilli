@@ -4,6 +4,7 @@ date: 2017-05-21T14:46:10+06:00
 description: "Am awesome vegetarian pad thai recipe"
 type: "post"
 image: "https://media.publit.io/file/pad-thai01.webp"
+jpg: "https://media.publit.io/file/pad-thai01.jpg"
 tags:
   - "Photos"
   - "Vegetarian"

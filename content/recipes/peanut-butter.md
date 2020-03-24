@@ -4,6 +4,7 @@ date: 2017-06-07T14:46:10+06:00
 description: "A simple, but delicious peanut butter recipe - waaay better than anything you'll find in the stores"
 type: post
 image: "https://media.publit.io/file/peanut-butter01.webp"
+jpg: "https://media.publit.io/file/peanut-butter01.jpg"
 tags:
   - "Photos"
   - "Food"

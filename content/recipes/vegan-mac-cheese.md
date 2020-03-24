@@ -4,6 +4,7 @@ date: 2018-02-22T14:46:10+06:00
 description: "An amazing vegan mac and cheese recipe"
 type: "featured"
 image: "https://media.publit.io/file/w_730,h_1080/mac-cheese01.webp"
+jpg: "https://media.publit.io/file/w_730,h_1080/mac-cheese01.jpg"
 tags:
   - "Recipe"
   - "Photos"

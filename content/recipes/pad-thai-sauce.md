@@ -4,6 +4,7 @@ date: 2017-05-01T14:46:10+06:00
 description: "Test"
 type: post
 image: "https://media.publit.io/file/pad-thai-sauce01.webp"
+jpg: "https://media.publit.io/file/pad-thai-sauce01.jpg"
 tags:
   - "Photos"
   - "Food"

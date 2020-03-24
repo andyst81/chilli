@@ -10,8 +10,13 @@
       {{ range $paginator.Pages }}
       <div class="card border-light">
         <article class="text-center">
-          <a href="{{.Permalink}}"><img class="card-img-top img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb"></a>
-          <!-- <p class="text-uppercase mb-2">{{.Params.Categories}}</p> -->
+          <a href="{{.Permalink}}">
+            <picture>
+              <source type="image/webp" data-srcset="{{.Params.Image | absURL }}">
+              <source type="image/jpeg" data-srcset="{{.Params.jpg | absURL }}">
+              <img data-src="{{.Params.jpg | absURL }}" class="img-fluid mb-4 lazyload" alt="post-thumb">
+            </picture>
+          </a>
           <h4 class="card-title title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
           <p class="card-text">{{.Summary}}</p>
           <a href="{{.Permalink}}" class="btn btn-transparent">read more</a>

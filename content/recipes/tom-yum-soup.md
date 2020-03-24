@@ -4,6 +4,7 @@ date: 2017-05-02T14:46:10+06:00
 description: "A creamy, hearty and filling authentic tom yum soup recipe"
 type: post
 image: "https://media.publit.io/file/tom-yum01.webp"
+jpg: "https://media.publit.io/file/tom-yum01.jpg"
 tags:
   - "Photos"
   - "Food"
