@@ -505,16 +505,6 @@ textarea.form-control {
   background-color: #a0d4ae;
 }
 
-.search-icon {
-  border: 0;
-  background: transparent;
-  position: absolute;
-  right: 0;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
-}
-
 .card-img-overlay::before {
   position: absolute;
   content: "";
@@ -816,17 +806,6 @@ blockquote {
 .widget:not(:last-child) {
   margin-bottom: 30px;
   border-bottom: 1px solid #f4f4f4;
-}
-
-.search-box {
-  position: relative;
-}
-
-.search-box i {
-  position: absolute;
-  left: 0;
-  top: 25px;
-  color: #767575;
 }
 
 .post-thumb-sm {
