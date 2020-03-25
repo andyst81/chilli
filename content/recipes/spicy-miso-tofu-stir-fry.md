@@ -47,11 +47,13 @@ The key to master cooking tofu is to season and cook it right. Any tofu tastes w
 
 ###### Preparation
 For the stir fry
+
 - Roughly chop the garlic and chillies.
 - Cut the firm tofu into bite sized pieces.
 - Trim the green beans and cut into bite size pieces around 1 ½ inch long.
- 
+
 For the sauce
+
 - Add miso paste and hot water stir til all the miso paste is dissolved.
 - Add soy sauce, sriracha, agave nectar and stir again to combine, set aside.
 
