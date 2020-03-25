@@ -14,7 +14,7 @@
             <picture>
               <source type="image/webp" data-srcset="{{.Params.Image | absURL }}">
               <source type="image/jpeg" data-srcset="{{.Params.jpg | absURL }}">
-              <img data-src="{{.Params.jpg | absURL }}" class="img-fluid mb-4 lazyload" alt="post-thumb">
+              <img data-src="{{.Params.jpg | absURL }}" class="img-fluid mb-4 lazyload feat" alt="post-thumb">
             </picture>
           </a>
           <h4 class="card-title title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
