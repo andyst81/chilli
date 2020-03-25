@@ -6,7 +6,7 @@
     <description>Recent content on Chilli and Lime - Asian flavours with an awesome twist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2020 14:46:10 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,15 @@
       <guid>/recipes/_default-recipe/</guid>
       <description>Blog content and images go here.
  Recipe   Prep Time: Cook Time: Total Time: Portions:  You’ll need:    Let’s start!</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy-policy/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>/privacy-policy/</guid>
+      <description>Privacy Policy of Chilli and Lime Chilli and Lime operates the https://chilliandlime.</description>
     </item>
     
     <item>
@@ -94,7 +103,7 @@
     </item>
     
     <item>
-      <title>Rainbow Veggie Soba Noodle Salad with Spicy Peanut Dressing</title>
+      <title>Rainbow Veggie Soba Noodle Salad</title>
       <link>/recipes/rainbow-noodle-salad/</link>
       <pubDate>Sun, 18 Jun 2017 14:46:10 +0600</pubDate>
       

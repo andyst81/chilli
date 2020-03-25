@@ -58,10 +58,11 @@ layout = "1"
 description = "Asian food with an awesome twist."
 # about author
 author = "Mina"
-author_image = "images/banner-img.png"
-bio = "I'm a photographer, watercolor artist and calligrapher from Thailand. Welcome to my corner of the internet."
+author_image = "https://s.gravatar.com/avatar/8f08d0d1922a14fcb3398b7ff9bb0a9f?s=200"
+bio = "Hi, I'm Mina. I'm a photographer, watercolor artist and calligrapher from Thailand. Welcome to my corner of the internet."
 # Contact info
 email = "mina@chilliandlime.net"
+privacy-policy = '/privacy-policy'
 # Contact Form Action
 contact_form_action = "#"
 # Google Analytics

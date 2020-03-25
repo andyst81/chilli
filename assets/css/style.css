@@ -10,12 +10,21 @@ VERSION:	Versoin Number
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Overlock:700");
 
+html {
+  height: 100%;
+}
+
 body {
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: #585757;
+  height:100%
+}
+
+.hero {
+  height: 100%;
 }
 
 p, .paragraph {
