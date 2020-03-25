@@ -24,8 +24,8 @@
         <article class="content">
           {{ partial "addthis.html" . }}
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
-          <div class="addthis_inline_share_toolbox"></div>
           {{.Content}}
+          {{ partial "addthis.html" . }}
         </article>
       </div>
       {{partial "sidebar.html" . }}
