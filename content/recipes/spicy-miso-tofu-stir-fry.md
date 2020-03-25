@@ -44,15 +44,17 @@ The key to master cooking tofu is to season and cook it right. Any tofu tastes w
 - 2 ½ tbsp. Vegetable oil
 - 120 g. String beans (handful)
 - Cooked rice (for serving)
+
 ###### Preparation
 For the stir fry
 - Roughly chop the garlic and chillies.
 - Cut the firm tofu into bite sized pieces.
-- Trim the green beans and cut into bite size pieces around 1 ½ inch long.  
--
+- Trim the green beans and cut into bite size pieces around 1 ½ inch long.
+ 
 For the sauce
 - Add miso paste and hot water stir til all the miso paste is dissolved.
 - Add soy sauce, sriracha, agave nectar and stir again to combine, set aside.
+
 ###### Let’s start!
 - On high heat add 2 tbsp. of vegetable oil to your wok, then add tofu. Shallow fry until all sides are golden light brown. Remove the tofu and set aside.
 - In the same pan add ½ tbsp. of oil add garlic and chillies, stir quickly until fragrant (around 20 seconds)
@@ -62,6 +64,7 @@ For the sauce
 - Turn off the heat add a splash of sesame oil then mix everything together.
 - Serve immediately on top of a fluffy warm rice.
 - Garnish with some sesame or spring onion (optional). Bon Appetit!
+
 ###### Tips:
 - If you’d like to avoid oil. You can use the non stick pan to sear the tofu (it might not get crispy, but after it’s coated in the sauce it’ll still be delicious)
 - As well as the stir fry process, you can also use a couple tsp. of water to help cooking the garlic and the veg.

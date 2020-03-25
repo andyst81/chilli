@@ -44,7 +44,7 @@ You’ll surprised how creamy and delicious this mac and cheese recipe is. Perfe
 - 1 tbsp. lime or lemon juice
 - ½ cup of almond milk or the veggie stock
 
-![](https://media.publit.io/file/w_730mac-cheese04.webp)
+![](https://media.publit.io/file/w_730/mac-cheese04.webp)
 
 ###### Let’s start!
 - In the deep bottom pot add potatoes, carrots, onion with a pinch of sea salt and water (just enough to cover all ingredients) boil until soft around 20 minutes.
@@ -53,6 +53,7 @@ You’ll surprised how creamy and delicious this mac and cheese recipe is. Perfe
 - Blend them all until completely smooth.
 - Pure all cheesy mixture on the cooked macaroni. Stir to combined.
 - You can eat it straight away or serve with the herby crispy bread crumbs and enjoy!
+
 ###### Tips:
 - If you prefer the mixture to be a bit runnier, you can add the vegetable stock from the potato boiling bit by bit until you reach the desire consistency.
 - To soak the cashew nuts before you use them in the recipe is very important, as you can see from the picture below the soaked one is more plumped up and will give you creamier and smoother consistency.
@@ -63,6 +64,6 @@ You’ll surprised how creamy and delicious this mac and cheese recipe is. Perfe
 
 ![](https://media.publit.io/file/w_730/mac-cheese06.webp)
 
-![](https://media.publit.io/file/w_730/mac-cheese07.webp)
-
 ![](https://media.publit.io/file/w_730/mac-cheese08.webp)
+
+![](https://media.publit.io/file/w_730/mac-cheese07.webp)
