@@ -66,7 +66,7 @@ privacy-policy = '/privacy-policy'
 # Contact Form Action
 contact_form_action = "#"
 # Google Analytics
-google_analytics_id = "UA-97831455-1"
+googleAnalytics = "UA-97831455-1"
 # copyright
 copyright = "Copyright &copy; 2020 [Chilli and Lime](/). Chilli and Lime is personal blog containing only original content."
 addThis = "ra-5e7b794a35f33f1b"
