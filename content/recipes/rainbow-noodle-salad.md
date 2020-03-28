@@ -2,7 +2,7 @@
 title: "Rainbow Veggie Soba Noodle Salad"
 date: 2017-06-18T14:46:10+06:00
 description: "Rainbow Veggie Soba Noodle Salad with Spicy Peanut Dressing"
-type: "featured"
+type: "post"
 image: "https://media.publit.io/file/w_730,h_1080/noodle-salad01.webp"
 jpg: "https://media.publit.io/file/w_730,h_1080/noodle-salad01.jpg"
 tags:

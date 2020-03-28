@@ -2,11 +2,12 @@
 title: "Grilled Mushrooms With Black Pepper Sauce"
 date: 2017-08-13T14:46:10+06:00
 description: "Test"
-type: post
+type: featured
+categories: "keto"
 image: "https://media.publit.io/file/grilled-mushrooms01.webp"
 jpg: "https://media.publit.io/file/grilled-mushrooms01.jpg"
 tags:
-  - "Photos"
+  - "Keto"
   - "Food"
 ---
 ![](https://media.publit.io/file/grilled-mushrooms02.webp)

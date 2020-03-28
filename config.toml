@@ -38,15 +38,34 @@ name = "Recipes"
 URL = "recipes"
 weight = 3
 
-# [[menu.main]]
-# name = "Blog"
-# URL = "blog"
-# weight = 4
-
 [[menu.main]]
 name = "Contact"
 URL = "contact"
+weight = 4
+
+[[menu.main]]
+name = "Keto / Low Carb"
+URL = "keto"
 weight = 5
+parent = "Recipes"
+
+[[menu.main]]
+name = "Vegan / Vegetarian"
+URL = "veggie"
+weight = 6
+parent = "Recipes"
+
+[[menu.main]]
+name = "Asian Flavours"
+URL = "asian"
+weight = 7
+parent = "Recipes"
+
+[[menu.main]]
+name = "Homesteading"
+URL = "homesteading"
+weight = 8
+parent = "Recipes"
 
 # deult parameter
 [params]
@@ -58,8 +77,8 @@ layout = "1"
 description = "Asian food with an awesome twist."
 # about author
 author = "Mina"
-author_image = "https://s.gravatar.com/avatar/8f08d0d1922a14fcb3398b7ff9bb0a9f?s=200"
-bio = "Hi, I'm Mina. I'm a photographer, watercolor artist and calligrapher from Thailand. Welcome to my corner of the internet."
+image = "https://s.gravatar.com/avatar/8f08d0d1922a14fcb3398b7ff9bb0a9f?s=200"
+bio = "Hi, I'm Mina. I'm a photographer, recipe developer, watercolor artist and calligrapher from Thailand. I love food and cooking new recipes, so I created this website to share my recipes and food photography with the world. Welcome, you will find all kinds of different cooking here - mostly Asian food, but there are ketogenic as well as vegan and vegetarian recipes, and even a few basic homesteading type ideas. Click on your favourite topic above, or click below to see the most recent recipes. I hope you like what you find!"
 # Contact info
 email = "mina@chilliandlime.net"
 privacy-policy = '/privacy-policy'
