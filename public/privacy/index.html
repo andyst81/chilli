@@ -2,11 +2,20 @@
 <html lang="en-us"><head>
   <meta charset="utf-8">
   <title>Chilli and Lime - Asian flavours with an awesome twist</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-97831455-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
+    gtag('config', 'UA-97831455-1');
+  </script>
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Privacy">
   <meta name="author" content="Mina">
+
   <meta name="generator" content="Hugo 0.68.3" />
 
   <!-- plugins -->
@@ -17,13 +26,12 @@
   
   <link rel="stylesheet" href="/plugins/themify-icons/themify-icons.css ">
   
-
   <!-- Main Stylesheet -->
   
   <link rel="stylesheet" href="/css/style.min.css" media="screen">
-  
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5e7b794a35f33f1b" async></script>
 
-
+</head>
 <body>
 <!-- preloader start -->
 <div class="preloader">
@@ -58,8 +66,24 @@
         
         
         
-        <li class="nav-item">
-          <a class="nav-link text-uppercase text-dark" href="/recipes">Recipes</a>
+        <li class="nav-item dropdown">
+          <a class="nav-link text-uppercase text-dark dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+            aria-expanded="false">
+            Recipes
+          </a>
+          <div class="dropdown-menu" >
+            
+            <a class="dropdown-item nav-link text-uppercase text-dark" href="/keto">Keto / Low Carb</a>
+            
+            <a class="dropdown-item nav-link text-uppercase text-dark" href="/vegetarian">Vegan / Vegetarian</a>
+            
+            <a class="dropdown-item nav-link text-uppercase text-dark" href="/asian">Asian Flavours</a>
+            
+            <a class="dropdown-item nav-link text-uppercase text-dark" href="/homesteading">Homesteading</a>
+            
+            <a class="dropdown-item nav-link text-uppercase text-dark" href="/recipes">All</a>
+            
+          </div>
         </li>
         
         
@@ -165,6 +189,6 @@
 <!-- Main Script -->
 
 <script src="/js/script.min.js"></script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5e7b794a35f33f1b" async></script>
-</body>
+
+    </body>
 </html>
