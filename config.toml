@@ -51,7 +51,7 @@ parent = "Recipes"
 
 [[menu.main]]
 name = "Vegan / Vegetarian"
-URL = "veggie"
+URL = "vegetarian"
 weight = 6
 parent = "Recipes"
 
@@ -65,6 +65,12 @@ parent = "Recipes"
 name = "Homesteading"
 URL = "homesteading"
 weight = 8
+parent = "Recipes"
+
+[[menu.main]]
+name = "All"
+URL = "recipes"
+weight = 9
 parent = "Recipes"
 
 # deult parameter
@@ -113,3 +119,7 @@ URL = "https://www.pinterest.com/chilliandlimeblog/"
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

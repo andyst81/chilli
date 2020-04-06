@@ -2,7 +2,7 @@
 title: "Tropical Green Smoothie"
 date: 2017-08-17T14:46:10+06:00
 description: "This is a delicious and refreshing tropical green smoothie"
-type: "featured"
+type: "post"
 image: "https://media.publit.io/file/w_730,h_1080/green-smoothie01.webp"
 jpg: "https://media.publit.io/file/w_730,h_1080/green-smoothie01.jpg"
 tags:
