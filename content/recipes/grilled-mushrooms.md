@@ -5,9 +5,12 @@ description: "Test"
 type: post
 image: "https://media.publit.io/file/grilled-mushrooms01.webp"
 jpg: "https://media.publit.io/file/grilled-mushrooms01.jpg"
+categories:
+  - keto
+  - vegetarian
 tags:
-  - "Photos"
-  - "Food"
+  - Keto
+  - Food
 ---
 ![](https://media.publit.io/file/grilled-mushrooms02.webp)
 

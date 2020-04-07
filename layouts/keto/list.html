@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+<!-- page-title -->
+<section class="section bg-secondary">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h4 class="text-center">{{.Title}}</h4>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /page-title -->
+<br />
+<!-- category post -->
+<section>
+  <div class="container">
+    <div class="row">
+      <div>
+      {{ range .Site.Taxonomies.categories.keto }}
+        <div>
+          <div>
+            <article class="text-center">
+              <picture>
+                <source type="image/webp" data-srcset="{{.Params.Image | absURL }}">
+                <source type="image/jpeg" data-srcset="{{.Params.jpg | absURL }}">
+                <img data-src="{{.Params.jpg | absURL }}" class="img-fluid mb-4 lazyload" alt="post-thumb">
+              </picture>
+              <!-- <img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb"> -->
+              <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
+              <p>{{ .Summary }}</p>
+              <a href="{{.Permalink}}" class="btn btn-transparent">read more</a>
+            </article>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+</section>
+<!-- /category post -->
+
+{{ end }}

@@ -2,7 +2,7 @@
 title: "Spicy Tofu Stir Fry"
 date: 2017-06-09T14:46:10+06:00
 description: "Spicy Miso Tofu Stir Fry Recipe"
-type: "featured"
+type: "post"
 image: "https://media.publit.io/file/w_730,h_1080/tofu06.webp"
 jpg: "https://media.publit.io/file/w_730,h_1080/tofu06.jpg"
 tags:
