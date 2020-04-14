@@ -10,6 +10,8 @@
 
     gtag('config', 'UA-97831455-1');
   </script>
+  {{ "<!-- Google Adwords Verification -->" | safeHTML }}
+  <script data-ad-client="ca-pub-7416949714604714" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
