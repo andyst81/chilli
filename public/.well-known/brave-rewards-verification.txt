@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: chilliandlime.net
+Token: 694b56c42dad2d9ffd2f293257b71e80c038e949224ab7bcac8a7adb6e55f62b

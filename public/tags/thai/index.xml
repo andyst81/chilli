@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thai on Chilli and Lime - Asian flavours with an awesome twist</title>
+    <link>/tags/thai/</link>
+    <description>Recent content in Thai on Chilli and Lime - Asian flavours with an awesome twist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 May 2017 14:46:10 +0600</lastBuildDate><atom:link href="/tags/thai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vegetarian Pad Thai</title>
+      <link>/recipes/vegetarian-pad-thai/</link>
+      <pubDate>Sun, 21 May 2017 14:46:10 +0600</pubDate>
+      
+      <guid>/recipes/vegetarian-pad-thai/</guid>
+      <description>Pad Thai is one of the most well known dishes in Thailand.</description>
+    </item>
+    
+  </channel>
+</rss>
