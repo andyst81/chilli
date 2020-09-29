@@ -10,8 +10,6 @@ tags:
 ---
 
 
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_inline_share_toolbox"></div>
 
 Blog content and images go here.
 

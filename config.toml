@@ -69,7 +69,6 @@ contact_form_action = "#"
 googleAnalytics = "UA-97831455-1"
 # copyright
 copyright = "Copyright &copy; 2020 [Chilli and Lime](/). Chilli and Lime is personal blog containing only original content."
-addThis = "ra-5e7b794a35f33f1b"
 
 # Preloader
 [params.preloader]
